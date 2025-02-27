@@ -38,5 +38,6 @@ systemctl enable wanportForceUp
 ~~~
 systemctl start wanportForceUp
 ~~~
+~~~
 systemctl status wanportForceUp
 ~~~
